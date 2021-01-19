@@ -1,2 +1,1 @@
-# tindog
-Bootstrap exercise
+TinDog Starting Files
